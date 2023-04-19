@@ -1,0 +1,11 @@
+commit 82050978804359f9424f5ec6d3d9d4617e4a0188
+Author: Emmett Lalish <elalish@google.com>
+Date:   Tue Apr 18 18:02:44 2023 -0700
+
+    Point cloud improvements (#4228)
+    
+    * editor: use surface hotspots only for animated models
+    
+    * remove mesh-specific checks
+    
+    * fix test
